@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/CommonFunction.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/ScheduleModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/Item.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/TrafficModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/Session.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/DefineName.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/server/ServiceDaemon.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/SessionModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/database/MySqlFactory.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/controller/UserController.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/controller/TrafficController.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/AccidentModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/JsonUtil.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/UserModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/happy-drive.conf</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/controller/ScheduleController.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/Follow.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/runserver</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/User.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/Config.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/CommonModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/HistoryModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/History.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/model/MiddleModel.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/common/AppConst.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/server/WebServer.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/data/Schedule.java</file>
+            <file>file:/home/huynct/Study/Thesis/accident-viewer/Source/Api/java%20api/src/thesis/api/controller/AccidentController.java</file>
+        </group>
+    </open-files>
+</project-private>
